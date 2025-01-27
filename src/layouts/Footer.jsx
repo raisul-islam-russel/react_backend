@@ -13,7 +13,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 ©
-                <a href="https://www.multipurposethemes.com/">Multipurpose Themes</a>. All Rights Reserved.
+                <a href="#">Doc Clinic By Raisul Islam Russel</a>. All Rights Reserved.
             </footer>
 
         </>

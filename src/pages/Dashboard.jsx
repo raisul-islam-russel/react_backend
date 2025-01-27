@@ -3,8 +3,7 @@ import React from 'react'
 const Dashboard = () => {
     return (
         <>
-            <div className="content-wrapper">
-                <div className="container-full">
+            
                     {/* Main content */}
                     <section className="content">
                         <div className="row">
@@ -337,8 +336,7 @@ const Dashboard = () => {
                         </div>
                     </section>
                     {/* /.content */}
-                </div>
-            </div>
+            
 
         </>
     )

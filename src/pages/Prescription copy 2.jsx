@@ -117,8 +117,6 @@ function Prescription() {
       doctor_id: SelectedDoctor.id,
       patient_id: SelectedPatient.id,
       prescribed_medicine: prescribedMedicines,
-      advice: advice,
-      follow_up_date: followUpDate,
     };
 
     axios.post(baseUrl + 'api/PrescribedMedicine/save', data).then((response) => {
